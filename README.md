@@ -7,4 +7,4 @@
 - 💬 Ask me about everything
 - 📫 How to reach me: Fifou#3337
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: 
+- ⚡ Fun fact: IDK
