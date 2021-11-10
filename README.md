@@ -1,5 +1,5 @@
 ### Hi there 👋
-![github-image](https://user-images.githubusercontent.com/92122670/141185002-162d6d53-5d88-474d-a915-7ecb61ef49f1.jpg)
+<img src="https://user-images.githubusercontent.com/92122670/141185002-162d6d53-5d88-474d-a915-7ecb61ef49f1.jpg" width="400px">
 
 
 - 🔭 I’m currently working on a discord bot !
@@ -13,7 +13,4 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  
-https://github-readme-stats.vercel.app/api?username=FifouJs&show_icons=true&hide_border=true 
-
 </details>
