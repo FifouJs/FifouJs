@@ -13,6 +13,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  https://github-readme-stats.vercel.app/api?username=fifoujs&show_icons=true&hide_border=true
 
 </details>
