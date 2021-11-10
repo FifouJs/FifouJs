@@ -10,3 +10,9 @@
 - 📫 How to reach me: Fifou#3337
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: IDK
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+
+</details>
