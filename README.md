@@ -1,5 +1,4 @@
 ### Hi there 👋
-[github-image](https://user-images.githubusercontent.com/92122670/141184382-863367de-593a-4489-933b-a47bb043c30f.jpg)
 
 - 🔭 I’m currently working on a discord bot !
 - 🌱 I’m currently learning the JavaScript
